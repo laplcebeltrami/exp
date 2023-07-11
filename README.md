@@ -1,4 +1,4 @@
-# Space of positive definite symmetric matrices
+# Space of positive definite symmetric matrices and its tangent space
 
 Given a point in the manifold (space of positive definite symmetric matrices), we show how to 
 estimate the point using basis in its tangent space (space of symmetric matrices) through the exponential map. The mathematical detail is given in
